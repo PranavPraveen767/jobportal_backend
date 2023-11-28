@@ -1,0 +1,59 @@
+{
+  "Recruit": [
+    {
+      "jobtitle": "Frontend Developer",
+      "Cname": "Google",
+      "Curl": "www.google.com",
+      "desc": "Ui develepor",
+      "jobtype": "Contract",
+      "jobplace": "Remote",
+      "vacancy": "4",
+      "experience": "3",
+      "id": 1
+    },
+    {
+      "jobtitle": "js developer",
+      "Cname": "google",
+      "Curl": "www.google.com",
+      "desc": "js engineer",
+      "jobtype": "Part time",
+      "jobplace": "Remote",
+      "vacancy": "3",
+      "experience": "2",
+      "id": 2
+    },
+    {
+      "jobtitle": "backend developer",
+      "Cname": "Cognizant",
+      "Curl": "www.cognizant.com",
+      "desc": "Accountant",
+      "jobtype": "Fulltime",
+      "jobplace": "In-office",
+      "vacancy": "2",
+      "experience": "3",
+      "id": 3
+    },
+    {
+      "jobtitle": "Developer",
+      "Cname": "Angular",
+      "Curl": "https://angular.io/guide/architecture",
+      "desc": "Angular Developer",
+      "jobtype": "Fulltime",
+      "jobplace": "Remote",
+      "vacancy": "6",
+      "experience": "2",
+      "id": 4
+    }
+  ],
+  "AppliedJobs": [
+    {
+      "cname": "Pranav",
+      "cno": "4456115551",
+      "cemail": "pranavpraveen767@gmail.com",
+      "cqual": "Post-Graduate",
+      "company": "Angular",
+      "jtitle": "Developer",
+      "id": 1
+    }
+  ]
+}
